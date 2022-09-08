@@ -1,4 +1,4 @@
-//Select elemnts from html
+//Select elements from html
 
 const watch = document.querySelector('.watch');
 const startTiner = document.querySelector('.startTimer');
